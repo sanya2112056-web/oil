@@ -1,0 +1,8 @@
+python-telegram-bot[job-queue]==21.6
+anthropic==0.39.0
+httpx==0.27.2
+feedparser==6.0.11
+SQLAlchemy==2.0.35
+python-dotenv==1.0.1
+yfinance==0.2.48
+tenacity==9.0.0
